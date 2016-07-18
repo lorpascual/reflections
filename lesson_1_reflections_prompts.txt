@@ -18,3 +18,10 @@ to keep control of the changes all the files.
 How can you use the commands git log and git diff to view the history of files?
 With git log you can see all the changes on the file and with diff you can compare between diffenrents commits.
 
+How might using version control make you more confident to make changes that could break something?
+With version control you have the chance to go back to a specific version of you file, so you can be more
+confident about making changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+The idea is to use Git like my CVS for my programing projects.
+
